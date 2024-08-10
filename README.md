@@ -97,13 +97,13 @@
 <body>
     <div class="outer-box">
         <div class="Vector">
-            <img src="boost logo.png" alt="Top Left Image" class="top-left-image"> <!-- 좌측 상단에 추가할 이미지 링크 -->
+            <img src="https://github.com/user-attachments/assets/defd47e7-dc07-4b1d-b59a-ab006f3d9975" alt="Top Left Image" class="top-left-image"> <!-- 좌측 상단에 추가할 이미지 링크 -->
             <div class="text-box">
                 안녕, 나는 부덕이야~<br>
                 부스트캠프 미션 부스에 온 걸 환영해<br>
                 시작 스틱을 눌러서 퀴즈를 풀어봐!
             </div>
-            <img src="자산 1.png" alt="Central Image" class="center-image"> <!-- 중앙 이미지 -->
+            <img src="https://github.com/user-attachments/assets/06a076d9-b1f7-44b1-a406-4a9c48ddeec2" alt="Central Image" class="center-image"> <!-- 중앙 이미지 -->
         </div>
     </div>
 
